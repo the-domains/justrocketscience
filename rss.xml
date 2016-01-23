@@ -4,8 +4,15 @@
         <description><![CDATA[justrocketscience]]></description>
         <link>https://thegrid.ai/justrocketscience/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 09:43:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2016 20:56:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/justrocketscience/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>HipHop was facebook's attempt to make php faster. They tried to convert source code parts to native machine code, which worked quite well. Now they work on another (but quite related) approach called hhvm (hiphop virtual machine), which is even nicer. I installed it on a ubuntu vm and it runs like a charm.</p>]]></description>
+            <link>https://thegrid.ai/justrocketscience/30781d9a-1925-42f8-8564-1d09a130210c/index.html</link>
+            <guid isPermaLink="false">30781d9a-1925-42f8-8564-1d09a130210c</guid>
+            <pubDate>Sat, 23 Jan 2016 20:56:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>]]></description>
