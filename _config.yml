@@ -1,0 +1,28 @@
+name: justrocketscience
+favicon: null
+layout_spectrum: 0.3509169209282845
+typography_spectrum: 0.3014218823518604
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7054092111065984
+  lightness: 0.8319107291754335
+  saturation: 0.6731184958480299
+  rhythmicContrast: 0.9885601103305817
+purpose: []
