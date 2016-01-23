@@ -4,8 +4,15 @@
         <description><![CDATA[justrocketscience]]></description>
         <link>https://thegrid.ai/justrocketscience/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 20:56:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2016 21:00:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/justrocketscience/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I will explain and provide some scripts how you can setup a Windows Remote Desktop Server behind a NAT (even on IPv6 DSLight connections). But there is a drawback: You need a public Linux server. Although low budget vm-solutions (e.g. DigitalOcean) start at about 5 USD.</p>]]></description>
+            <link>https://thegrid.ai/justrocketscience/708b2deb-a5b2-4199-afa4-97f9f4427682/index.html</link>
+            <guid isPermaLink="false">708b2deb-a5b2-4199-afa4-97f9f4427682</guid>
+            <pubDate>Sat, 23 Jan 2016 21:00:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>HipHop was facebook's attempt to make php faster. They tried to convert source code parts to native machine code, which worked quite well. Now they work on another (but quite related) approach called hhvm (hiphop virtual machine), which is even nicer. I installed it on a ubuntu vm and it runs like a charm.</p>]]></description>
